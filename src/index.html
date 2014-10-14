@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <link rel="stylesheet/less" type="text/css" href="progressBar.less" />
+  <script src="less.js/dist/less-1.7.5.min.js"></script>
+</head>
+<body>
+  <!--<div class="progress-bar">
+    <div class="grid on"></div>
+    <div class="grid on"></div>
+    <div class="grid"></div>
+    <div class="grid"></div>
+    <div class="grid"></div>
+    <div class="grid"></div>
+    <div class="grid"></div>
+    <div class="empty"></div>
+    <div class="grid"></div>
+    <div class="grid"></div>
+    <div class="grid"></div>
+  </div>-->
+  <script src="progressBar.js"></script>
+  <script>
+    var progress = progressFactory.render( document.body, [
+      true,true,true,true,false,false,false,true,true,false,
+      true,true,true,true,false,false,false,true,true,true,
+      true,true,true,true,false,false,false,true,true,false,
+      false,false,false,false,false,false,false,true,true,true,
+      true,false,true,false,false,false,false,true,true,true
+    ],{
+      partialNumber:5
+    });
+  </script>
+</body>
+</html>
+

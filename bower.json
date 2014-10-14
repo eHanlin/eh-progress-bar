@@ -1,0 +1,16 @@
+{
+  "name": "eh-progress-bar",
+  "version": "0.0.1",
+  "authors": [
+    "sparrow.jang <sparrow.jang@gmail.com>"
+  ],
+  "description": "Build a progress bar",
+  "dependencies": {},
+  "keywords": [
+    "timer"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "less.js": "~1.7.5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "eh-progress-bar",
+  "version": "0.0.1",
+  "main": "dist/progressBar.js",
+  "description": "Build a progress bar",
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-bower": "0.0.6",
+    "gulp-connect": "^2.0.6",
+    "gulp-header": "~1.0.5",
+    "gulp-less": "^1.3.6",
+    "gulp-load-plugins": "^0.6.0",
+    "gulp-uglify": "^1.0.0",
+    "opn": "^0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SparrowJang/ehProgressBar.git"
+  },
+  "keywords": [
+    "timer"
+  ],
+  "author": "sparrow.jang",
+  "license": "MIT"
+}
