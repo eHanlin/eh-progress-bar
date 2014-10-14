@@ -3,7 +3,7 @@ eh-progress-bar
 
 ![demo image](/images/progressbar.png)
 
-This is timer for countdown.
+Build a progress bar.
 
 ## Install
 
