@@ -1,4 +1,4 @@
-ehProgressBar
+eh-progress-bar
 ===================================
 
 ![demo image](/images/progressbar.png)
