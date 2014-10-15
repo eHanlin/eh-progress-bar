@@ -45,7 +45,7 @@
      */
     init_:function(){
       this.dom_ = createElement( 'div' );
-      this.dom_.className = "progress-bar";
+      this.dom_.className = "eh-progress-bar";
     },
     /**
      * @private
