@@ -15,10 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SparrowJang/ehProgressBar.git"
+    "url": "https://github.com/SparrowJang/eh-progress-bar.git"
   },
   "keywords": [
-    "timer"
+    "progress",
+    "bar"
   ],
   "author": "sparrow.jang",
   "license": "MIT"
